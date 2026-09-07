@@ -26,6 +26,14 @@ Los dos controladores trabajan en paralelo sobre el proceso. Sus resultados se i
 
 ---
 
+## Demo del proyecto
+
+Puedes ver una demostración del funcionamiento del proyecto en el siguiente vídeo:
+
+[![Ver demostración del proyecto](https://www.youtube.com/watch?v=kuwzWjJr-io)]
+
+---
+
 ## Arquitectura general
 
 ```mermaid
