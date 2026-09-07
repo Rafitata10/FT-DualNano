@@ -519,14 +519,6 @@ Trabajo de Fin de Grado — 2024
 
 ---
 
-# Licencia
-
-Los diferentes componentes del proyecto se distribuyen bajo licencia **MIT**.
-
-Consulta el `LICENSE` de cada repositorio para conocer los términos específicos aplicables a cada componente.
-
----
-
 ## Palabras clave
 
 `Arduino` · `Arduino Nano` · `C++` · `Python` · `Embedded Systems` · `Fault Tolerance` · `Active Redundancy` · `Redundancy by Comparison` · `Industrial Control` · `Microcontrollers` · `SPI` · `Serial Communication` · `PICSimLab` · `SRTank`
