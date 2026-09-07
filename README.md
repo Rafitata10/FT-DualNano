@@ -68,7 +68,7 @@ La duplicación permite comparar las decisiones generadas por ambas instancias y
 
 Repositorio:
 
-**[CBI-Controller](https://github.com/Rafitata10/CBI-Controller)**
+**[CBI-Controller](https://github.com/Rafitata10/FT-DualNano/tree/main/CBI-Controller)**
 
 Tecnologías principales:
 
@@ -99,7 +99,7 @@ Además de la comparación de datos, el sistema implementa mecanismos relacionad
 
 Repositorio:
 
-**[CBI-Comparator](https://github.com/Rafitata10/CBI-Comparator)**
+**[CBI-Comparator](https://github.com/Rafitata10/FT-DualNano/tree/main/CBI-Comparator)**
 
 Tecnologías principales:
 
@@ -131,7 +131,7 @@ La versión modificada incorpora además funcionalidades específicas necesarias
 
 Repositorio:
 
-**[FT-DualNano-SRTank](https://github.com/Rafitata10/FT-DualNano-SRTank)**
+**[FT-DualNano-SRTank](https://github.com/Rafitata10/FT-DualNano/tree/main/SRTank)**
 
 Este componente constituye la representación software del proceso industrial que posteriormente será controlado por los controladores redundantes.
 
@@ -157,7 +157,7 @@ Entre otras operaciones permite:
 
 Repositorio:
 
-**[SRTank-Library](https://github.com/Rafitata10/SRTank-Library)**
+**[SRTank-Library](https://github.com/Rafitata10/FT-DualNano/tree/main/SRTank-Library)**
 
 Tecnologías principales:
 
@@ -180,7 +180,7 @@ La aplicación está desarrollada principalmente en Python y utiliza comunicaci�
 
 Repositorio:
 
-**[FT_DualNano_GUI](https://github.com/Rafitata10/FT_DualNano_GUI)**
+**[FT_DualNano_GUI](https://github.com/Rafitata10/FT-DualNano/tree/main/FT-DualNano-GUI)**
 
 Tecnologías principales:
 
