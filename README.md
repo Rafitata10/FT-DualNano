@@ -26,11 +26,13 @@ Los dos controladores trabajan en paralelo sobre el proceso. Sus resultados se i
 
 ---
 
-## Demo del proyecto
+## 🎥 Demo
 
-Puedes ver una demostración del funcionamiento del proyecto en el siguiente vídeo:
+A continuación se muestra una demostración del funcionamiento del proyecto:
 
-[![Ver demostración del proyecto](https://www.youtube.com/watch?v=kuwzWjJr-io)(https://www.youtube.com/watch?v=kuwzWjJr-io)]
+[![Ver demo del proyecto](https://img.youtube.com/vi/kuwzWjJr-io/hqdefault.jpg)](https://www.youtube.com/watch?v=kuwzWjJr-io)
+
+*Haz clic en la imagen para ver el vídeo completo en YouTube.*
 
 ---
 
